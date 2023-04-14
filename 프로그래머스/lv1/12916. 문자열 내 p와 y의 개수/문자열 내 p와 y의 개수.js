@@ -21,3 +21,6 @@ function solution(s){
 
     return answer;
 }
+
+//직관적이고 깔끔한 코드 예시
+//return s.toUpperCase().split("P").length === s.toUpperCase().split("Y").length;
